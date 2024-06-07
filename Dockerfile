@@ -1,11 +1,11 @@
-FROM python:3.9-slim
+FROM python:3.9-slim-buster
 
 WORKDIR /app
 
-COPY generate_report.py .
+RUN mkdir -p /reports/
 
-RUN pip install requests
+COPY report_generator.py /app/
 
-RUN mkdir -p /reports
+RUN pip install --no-cache-dir requests
 
-CMD ["python", "generate_report.py"]
+CMD ["python", "report_generator.py"]
