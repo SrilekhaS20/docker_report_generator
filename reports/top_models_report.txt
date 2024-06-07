@@ -1,0 +1,12 @@
+Top 10 Hugging Face Models by Downloads:
+
+1. MIT/ast-finetuned-audioset-10-10-0.4593 - 523957253 downloads
+2. google-bert/bert-base-uncased - 61886790 downloads
+3. openai/clip-vit-large-patch14 - 45689576 downloads
+4. sentence-transformers/all-MiniLM-L6-v2 - 32025916 downloads
+5. laion/CLIP-ViT-B-32-laion2B-s34B-b79K - 29493699 downloads
+6. distilbert/distilbert-base-uncased - 21089279 downloads
+7. jonatasgrosman/wav2vec2-large-xlsr-53-english - 20993632 downloads
+8. openai/clip-vit-base-patch32 - 16793115 downloads
+9. sentence-transformers/all-mpnet-base-v2 - 16136503 downloads
+10. openai/clip-vit-base-patch16 - 14244350 downloads
